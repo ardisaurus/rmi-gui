@@ -1,2 +1,2 @@
 # rmi-gui
-Java Chatting Aplication With RMI
+Java Chatting Aplication With RMI and Graphic User Interface (GUI)
